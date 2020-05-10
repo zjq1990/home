@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "张嘉琦"
 title_separator          : "-"
-name                     : &name "Dr. Test Account"
-description              : &description "Research scientist at Test University"
+name                     : &name "张嘉琦"
+description              : &description "personal description"
 url                      : https://getorg-testacct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "getorg-testacct.github.io"
@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "张嘉琦"
-  avatar           : "profile-zjq.jpg"
+  avatar           : "zjq.jpg"
   bio              : "运筹优化算法工程师"
   location         : "北京"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : # "http://scholar.google.com/this-is-a-test"
   email            : "zjq2010014137@163.com"
   uri              : 
   bitbucket        :

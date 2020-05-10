@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
+欢迎进入我的个人主页
 
-Lorem ipsum.
+
