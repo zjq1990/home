@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Test Account"
+title                    : "张嘉琦"
 title_separator          : "-"
 name                     : &name "Dr. Test Account"
 description              : &description "Research scientist at Test University"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "张嘉琦"
-  avatar           : "zhangjiaqi.png"
+  avatar           : "profile-zjq.jpg"
   bio              : "运筹优化算法工程师"
   location         : "北京"
   employer         : 
