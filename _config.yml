@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
-  avatar           : "profile.png"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
-  location         : "Test, California"
+  name             : "张嘉琦"
+  avatar           : "zhangjiaqi.png"
+  bio              : "运筹优化算法工程师"
+  location         : "北京"
   employer         : 
   googlescholar    : "http://scholar.google.com/this-is-a-test"
-  email            : 
+  email            : "zjq2010014137@163.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "getorg-testacct"
+  github           : "zjq2010014137"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
